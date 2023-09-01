@@ -1,5 +1,6 @@
 {
   "name": "products",
+  "author": "David De La Rosa",
   "license":"MIT",
   "dependencies": {
     "faker": "5.1.0",

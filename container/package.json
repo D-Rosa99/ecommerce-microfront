@@ -1,5 +1,6 @@
 {
   "name": "container",
+  "author": "David De La Rosa",
   "license":"MIT",
   "dependencies": {
     "html-webpack-plugin": "5.5.0",
